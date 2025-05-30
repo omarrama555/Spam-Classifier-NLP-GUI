@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+nltk
+joblib
+tkinter; sys_platform == "win32"
